@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="id_text">Login</string>
+    <string name="password_text">Password</string>
+    <string name="btn_loginText">CONNEXION</string>
+    <string name="btn_createAccount">CREER UN COMPTE</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="title_activity_get_line">GetLine</string>
+</resources>
